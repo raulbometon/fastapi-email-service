@@ -1,0 +1,4 @@
+{
+    "test_email": "Test email",
+    "test_email_with_vars": "Hello {name} {surname}"
+}

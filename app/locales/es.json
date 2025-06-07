@@ -1,0 +1,4 @@
+{
+    "test_email": "Correo de Prueba",
+    "test_email_with_vars": "Hola {name} {surname}"
+}

@@ -1,0 +1,6 @@
+.env
+logs/
+.venv/
+__pycache__/
+.pytest_cache/
+send_email_testing.py
